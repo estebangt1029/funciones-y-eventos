@@ -1,0 +1,26 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+
+}
+body{
+    background-image: url(https://impulsapopular.com/wp-content/uploads/2020/08/4792-Consejos-para-generar-una-experiencia-de-compra-inolvidable-en-tu-tienda-onli.jpg);
+    background-repeat: no-repeat;
+    background-size: 106%;
+}
+
+.container{
+    width: 40%;
+    margin: 210px auto;
+    text-align: center;
+    font-size: 30px;
+
+}
+#volver{
+    margin:20px 0;
+    width: 40%;
+    height: 35px;
+    background-color: chartreuse;
+
+}

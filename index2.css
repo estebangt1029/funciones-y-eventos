@@ -1,0 +1,199 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    border: solid;
+  
+}
+header{
+    display: flex;
+    gap: 15px;
+    
+    
+   
+}
+.icono{
+    width: 26px;
+}
+.iconom{
+    width: 20%;
+}
+.imagen{
+    width: 100%;
+    
+   
+}
+.nosotros{
+  
+    width: 40%;
+}
+.productosm{
+  
+    width: 40%;
+
+}
+
+
+figure{
+    width: 20%;
+   
+
+}
+.texto{
+    width: 80%;
+}
+
+aside{
+    width: 80%;
+    margin: 20px auto;
+    display: flex;
+    gap: 20px;
+}
+section{
+    display: flex;
+    gap: 15px;
+    width: 80%;
+    margin: auto;
+    
+}
+.iz{
+    width: 40%;
+    text-align: center;
+    
+}
+select{
+   margin-top: 10px;
+}
+.pedir{
+    margin-top: 90px;
+}
+
+.productos{
+    width: 80%;
+    display: flex;
+    gap: 25px;
+    justify-content:space-around ;
+    
+    margin: auto;
+}
+.producto1{
+    width: 20%;
+    height: 100%;
+    text-align: center;
+    border: solid 1px;
+   
+}
+.p1{
+   width: 100%;
+}
+.producto2{
+    width: 20%;
+    
+    text-align: center;
+    border: solid 1px;
+
+}
+.p2{
+   width: 100%;
+}
+.producto3{
+    width: 20%;
+    text-align: center;
+    border: solid 1px;
+}
+.p3{
+   width: 100%;
+}
+.producto4{
+    width: 20%;
+    text-align: center;
+    border: solid 1px;
+}
+.p4{
+   width: 100%;
+}
+#comprar{
+    margin-top: 80px;
+    width: 20%;
+
+}
+h2{
+    margin-bottom: 20px;
+}
+h5{
+    font-size: 40px;
+}
+.de{
+    text-align: center;
+    margin-bottom: 290px;
+}
+h6{
+    font-size: 40px;
+}
+.menublanco{
+    width: 70%;
+    
+  
+}
+.menude{
+    width: 10%;
+}
+.menuiz{
+    width: 20%;
+    display: flex;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+
+
+
+
+
+.modal{
+    background-color: rgba(0, 0, 0, 0.55);
+    height: 100%;
+    position: fixed;
+    top: -100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+.submodal{
+    display: flex ;
+    width: 60%;
+    height: 70%;
+   
+    background-image: url(https://www.azuanet.com/web/common/modulos/noticias/imagenes/20171009003248000000.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.mp1{
+    width: 17%;
+    height: 25%;
+    margin: 36% 58%;
+    
+}
+.botones{
+    position: absolute;
+    margin: 33% 19%;
+}
+#aceptar{
+    width: 100%;
+}
+#cancelar{
+    width: 100%;
+}
+.mps{
+    border: solid;
+}

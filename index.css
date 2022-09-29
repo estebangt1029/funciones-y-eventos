@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://cdn.urbantecno.com/urbantecno/2022/04/Con-estas-webs-podras-comprar-y-vender-tus-articulos-de-forma-sencilla-y-segura.1650905175.9566.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.container{
+    padding: 10px; 
+
+    width: 28%;
+    margin:8% 34%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: white;
+    border-radius: 15px;
+    
+}
+
+#username{
+    width: 95%;
+    margin-bottom: 10px;
+    
+}
+#usernamel{
+    margin-top: 15px;
+}
+#password{
+    width: 95%;
+   
+}
+#mensaje{
+    display: none;
+    color: brown;
+    margin-bottom: 10px;
+}
+#boton{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.check{
+    display: flex;
+    margin-top: 10px;
+    gap: 5px;
+}
+
