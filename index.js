@@ -23,8 +23,8 @@ ratonm.addEventListener('mouseenter',()=>{
     document.getElementById('password').type='text'
     console.log('aja')
 })
-// ratono.addEventListener('mousedown',()=>{
-//     document.getElementById('password').type='password'
-//     console.log('ajo')
+ratono.addEventListener('mouseout',()=>{
+    document.getElementById('password').type='password'
+    console.log('ajo')
     
-// })
+})
